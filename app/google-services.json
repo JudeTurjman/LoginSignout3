@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393801480516",
+    "project_id": "loginsignout-24595",
+    "storage_bucket": "loginsignout-24595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393801480516:android:e6935047d33ac95aa93f11",
+        "android_client_info": {
+          "package_name": "com.jude.loginsignout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYZQkaJPjWm0DkDhz5QPnveWM-qAO6n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
